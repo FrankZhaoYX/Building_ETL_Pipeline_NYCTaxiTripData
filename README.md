@@ -51,6 +51,7 @@
 - **Memory Optimization**: Efficient DataFrame operations and cleanup
 
 ### 📁 File Structure
+<pre>
 project/
 ├── data/
 │   └── yellow_tripdata_2009/
@@ -60,6 +61,7 @@ project/
 ├── bronze/
 │   └── yellow_tripdata.csv
 └── etl_nycTaxiTrip.py
+</pre>
 
 ### 📈 Data Schema
 
