@@ -3,3 +3,6 @@
 
 # Ignore parquet files in any subdirectory
 **/*.parquet
+
+*.csv
+**/*.csv
